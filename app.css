@@ -1,0 +1,60 @@
+/*i{
+    color: white;
+} 
+
+
+table{
+    border-style: solid;
+    border-width: 5px;
+    border-color: green;
+}
+td{
+    border-color: green;
+    border-style: solid;
+    border-width: 3px;
+} 
+
+table{
+    border-width: 3px;
+    border-color: red;
+    background: green;
+}
+td{
+    border-color: red;
+    border-width: 3px;
+}
+
+b{
+    color: black;
+}
+td{
+    color: white;
+} 
+
+b{
+    color: white; 
+} 
+
+td{
+    border-color: red;
+    border-width: 5px;
+    color: white;
+}
+table{
+    border-width: 5spx;
+    border-color: red;
+}  */
+
+h2{
+    color: rgb(98, 190, 98);
+}
+
+b{
+    color: brown;
+}
+
+form{
+    background: pink;
+}
+
+
